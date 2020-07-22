@@ -1,1 +1,1 @@
-# SmsExample
+# Sms-sending/receiving app
